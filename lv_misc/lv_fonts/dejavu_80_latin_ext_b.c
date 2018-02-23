@@ -1,4 +1,4 @@
-#include "../../../lv_conf.h"
+#include "lv_conf.h"
 #if USE_LV_FONT_DEJAVU_80_LATIN_EXT_B
 
 #include <stdint.h>
